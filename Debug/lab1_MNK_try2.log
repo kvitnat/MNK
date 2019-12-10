@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\admin\Documents\study\3rd_year\NumMethods\lab1_MNK_try2\main.cpp(29,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\admin\Documents\study\3rd_year\NumMethods\lab1_MNK_try2\main.cpp(36,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\admin\Documents\study\3rd_year\NumMethods\lab1_MNK_try2\main.cpp(41,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  lab1_MNK_try2.vcxproj -> C:\Users\admin\Documents\study\3rd_year\NumMethods\lab1_MNK_try2\Debug\lab1_MNK_try2.exe
